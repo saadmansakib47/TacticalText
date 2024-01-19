@@ -1,0 +1,14 @@
+C:\.Net Projects\TacticalText\TacticalText\bin\Debug\net6.0\TacticalText.exe
+C:\.Net Projects\TacticalText\TacticalText\bin\Debug\net6.0\TacticalText.deps.json
+C:\.Net Projects\TacticalText\TacticalText\bin\Debug\net6.0\TacticalText.runtimeconfig.json
+C:\.Net Projects\TacticalText\TacticalText\bin\Debug\net6.0\TacticalText.dll
+C:\.Net Projects\TacticalText\TacticalText\bin\Debug\net6.0\TacticalText.pdb
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\TacticalText.GeneratedMSBuildEditorConfig.editorconfig
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\TacticalText.AssemblyInfoInputs.cache
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\TacticalText.AssemblyInfo.cs
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\TacticalText.csproj.CoreCompileInputs.cache
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\TacticalText.dll
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\refint\TacticalText.dll
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\TacticalText.pdb
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\TacticalText.genruntimeconfig.cache
+C:\.Net Projects\TacticalText\TacticalText\obj\Debug\net6.0\ref\TacticalText.dll
