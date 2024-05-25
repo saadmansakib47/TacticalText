@@ -13,14 +13,19 @@ of the project and refactored it by applying the principles and concepts we were
 ##Details
 First, each player will be granted with a budget of 500$. 
 Player1 will be prompted to a shop where they can choose the units and number of the units to make their army. 
+
 ![P1](https://github.com/saadmansakib47/TacticalText/assets/134169023/65cac849-6a9d-4d12-8291-a2cafd85022f)
+
 For example, Player1 purchased 12 snipers.
+
 ![P2](https://github.com/saadmansakib47/TacticalText/assets/134169023/03940bc1-c481-4006-b1bb-563c44e708f0)
 
 Then purchases other types of units and the game prompts to Player2. 
-![P3](https://github.com/saadmansakib47/TacticalText/assets/134169023/33f5b56d-cb4f-43be-9699-b080afd19b81)
+
+![P3](https://github.com/saadmansakib47/TacticalText/assets/134169023/09d8a28e-a949-4d3c-953e-a68dff7f6ddb)
 
 Player2 buys the units as well. Then the games proceeds them to engage in battle : 
+
 ![p4](https://github.com/saadmansakib47/TacticalText/assets/134169023/e64b94f4-63e3-430c-af78-e6a125580651)
 
 Player 1 and Player2 deploys their units. The battle advances with calculating the attack logic of each units.
