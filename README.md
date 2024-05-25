@@ -7,7 +7,7 @@ A text and turn based two-player console game developed in C# during my third se
 
 
 ### Purpose
-This project was part of the course SWE 4302 (Object Oriented Concepts II Lab), where we were told to demonstrate the necessity of [clean codes] (https://www.freecodecamp.org/news/how-to-write-clean-code/#:~:text=Clean%20code%20is%20written%20in,maintain%2C%20debug%2C%20and%20modify) and [SOLID Principles] (https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) by refactoring an existing project that was done earlier by the students or anyone else. I chose 'TacticalTextRPG' which was a toy project done early in my undergrad life, when I was not yet aware of the importance of clean codes, object oriented concepts and even proper version controlling. I observed the structure 
+This project was part of the course SWE 4302 (Object Oriented Concepts II Lab), where we were told to demonstrate the necessity of ![clean codes] (https://www.freecodecamp.org/news/how-to-write-clean-code/#:~:text=Clean%20code%20is%20written%20in,maintain%2C%20debug%2C%20and%20modify) and ![SOLID Principles] (https://www.digitalocean.com/community/conceptual-articles/s-o-l-i-d-the-first-five-principles-of-object-oriented-design) by refactoring an existing project that was done earlier by the students or anyone else. I chose 'TacticalTextRPG' which was a toy project done early in my undergrad life, when I was not yet aware of the importance of clean codes, object oriented concepts and even proper version controlling. I observed the structure 
 of the project and refactored it by applying the principles and concepts we were taught in the course. 
 
 ### Details
