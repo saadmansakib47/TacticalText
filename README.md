@@ -60,7 +60,7 @@ For example, Player1 purchased 12 snipers.
 
 Then purchases other types of units and the game prompts to Player2. 
 
-![P3](https://github.com/saadmansakib47/TacticalText/assets/134169023/09d8a28e-a949-4d3c-953e-a68dff7f6ddb)
+![P3](https://github.com/saadmansakib47/TacticalText/assets/134169023/16d90e04-aafa-4079-bc02-03d7550c11d6)
 
 Player2 buys the units as well. Then the games proceeds them to engage in battle : 
 
